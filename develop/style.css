@@ -1,3 +1,7 @@
-body {
-    background-color: salmon;
+ul {
+    list-style: none;
+}
+
+.bloopiedoo > *{
+    padding-left: 4px;
 }
